@@ -1,3 +1,5 @@
+// 백준 코테 : 10430번.
+
 import java.util.Scanner;
 
 public class Test9 {
