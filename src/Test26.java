@@ -1,8 +1,8 @@
-// 백준 알고리즘 :
+//백준 알고리즘 :
 
 import java.util.Scanner;
 
-public class Test25 {
+public class Test26 {
     public static void main(String[] args) {
         Scanner s1 = new Scanner(System.in);
 
@@ -11,4 +11,3 @@ public class Test25 {
 
     }
 }
-
