@@ -1,3 +1,5 @@
+//백준 2438번
+
 import java.util.Scanner;
 
 public class Test23 {
