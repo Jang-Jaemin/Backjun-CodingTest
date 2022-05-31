@@ -1,4 +1,4 @@
-// 백준 알고리즘 :
+// 백준 알고리즘 : 10951번
 
 import java.util.Scanner;
 
