@@ -1,4 +1,4 @@
-// 11720 번 문제.
+// 11720 번 문제. 문자열
 
 import java.util.Scanner;
 
