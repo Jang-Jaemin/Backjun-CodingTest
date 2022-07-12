@@ -1,6 +1,6 @@
 // 10809번 문제.
 
-/*import java.util.Scanner;
+import java.util.Scanner;
 
 public class Test40 {
     public static void main(String[] args) {
@@ -29,4 +29,3 @@ public class Test40 {
         }
     }
 }
-*/

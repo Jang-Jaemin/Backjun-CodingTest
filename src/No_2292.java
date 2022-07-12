@@ -1,3 +1,4 @@
+//기본 수학 벌집
 
 import java.util.Scanner;
 

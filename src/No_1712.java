@@ -1,4 +1,5 @@
-
+//손익분기점
+//수학 기본1부터는 어려워서 우선 스킵..
 import java.util.Scanner;
 
 public class No_1712 {

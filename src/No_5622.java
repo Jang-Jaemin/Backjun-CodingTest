@@ -1,4 +1,4 @@
-
+//문자열 - 다이얼
 import java.util.Scanner;
 
 public class No_5622{
